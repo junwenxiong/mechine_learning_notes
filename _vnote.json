@@ -1,0 +1,28 @@
+{
+    "attachment_folder": "_v_attachments",
+    "created_time": "2019-05-06T01:08:38Z",
+    "files": [
+    ],
+    "image_folder": "",
+    "recycle_bin_folder": "_v_recycle_bin",
+    "sub_directories": [
+        {
+            "name": "Python知识"
+        },
+        {
+            "name": "数据集"
+        },
+        {
+            "name": "监督学习"
+        },
+        {
+            "name": "无监督学习"
+        },
+        {
+            "name": "深度学习"
+        }
+    ],
+    "tags": [
+    ],
+    "version": "1"
+}
